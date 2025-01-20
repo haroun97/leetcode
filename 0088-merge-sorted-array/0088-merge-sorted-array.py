@@ -18,9 +18,6 @@ class Solution:
         # If there are elements left in nums2, copy them
         nums1[:p2 + 1] = nums2[:p2 + 1]
 
-
-            
-
 solution = Solution()
 nums1 = []
 nums2 = [1]
