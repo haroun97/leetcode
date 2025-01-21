@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/haroun97/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/haroun97/leetcode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/haroun97/leetcode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/haroun97/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/haroun97/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/haroun97/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
